@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = earduman2@gmail.com
+	name = Emre Arduman
